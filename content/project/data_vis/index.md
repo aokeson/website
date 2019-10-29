@@ -45,3 +45,5 @@ url_code = ""
 
   preview_only = true
 +++
+A customizable surgical anesthesia monitor using D3 based on needs identified by interviews with doctors. Displays real time waveform vitals data, along with past vitals data trends. Allows users to explore past and present waveforms side by side, customize which waveforms and trends they want to see, and automatically calculates vitals statistics not available in current displays. To learn more and see a full demo, visit the [website](https://cse512-18s.github.io/cutting-edge-anesthesia/).
+![](featured.png)

@@ -45,3 +45,5 @@ url_code = ""
 
   preview_only = true
 +++
+Current dementia and Alzheimer's Disease onset predictions rely on medical imaging tests, which are expensive and draining on already scarce medical resources. We are developing a suggested protocol and machine learning prediction methodology that will use a few simple tests to determine if someone is likely to get a dementia diagnosis in the near-term future. These simple tests can be administered in 15 minutes by a physician or assistant at yearly physicals for aging patients. Our system enables prediction of future diagnosis as well as prediction explanations, enabling patients, healthcare providers, and loved ones to take potentially preventative actions, allocate future medical resources effectively, and get a jump start on planning for the future.
+![](featured.png)
