@@ -64,5 +64,7 @@ email: ""
 
 I am a third year PhD student advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help individuals and doctors better **understand** and **make decisions** based on health data.
 
+During the summer of 2020 I am interning with [Jenn Wortman Vaughan](http://www.jennwv.com/) and [Hanna Wallach](http://dirichlet.net/) in the [FATE group](https://www.microsoft.com/en-us/research/theme/fate/) at Microsoft Research in New York City.
+
 
 
