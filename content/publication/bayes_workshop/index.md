@@ -25,7 +25,7 @@ publication_short = "Virtual Workshop on Artificial Intelligence for HCI: A Mode
 link = "https://sites.google.com/view/ai4hci/accepted-papers?authuser=0"
 
 # Abstract.
-abstract = "As AI becomes an increasingly ubiquitous component of end-user systems, questions of effective design of these systems should be situated in specific contexts. For example, personal informatics is an everyday context in which people encounter challenges in collecting, reflecting on, and learning from data, often mediated by statistical analyses and visualizations. In this workshop position paper, we consider the intersection of AI and personal informatics. Specifically, we present preliminary work highlighting opportunities for Bayesian network learning to support people in overcoming common challenges in: (1) answering questions people have for their data, (2) supporting goal evolution and iteration, and (3) learning more with less data."
+abstract = ""
 
 # Summary. An optional shortened abstract.
 summary = ""
