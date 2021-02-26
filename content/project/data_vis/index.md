@@ -13,7 +13,7 @@ summary = "A customizable surgical anesthesia monitor using D3 based on needs id
 tags = []
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://cse512-18s.github.io/cutting-edge-anesthesia/"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -24,7 +24,7 @@ external_link = "https://cse512-18s.github.io/cutting-edge-anesthesia/"
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://cse512-18s.github.io/cutting-edge-anesthesia/paper.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -32,6 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name="Poster", url = "https://cse512-18s.github.io/cutting-edge-anesthesia/poster.pdf"}, {name="Demo", url = "https://cse512-18s.github.io/cutting-edge-anesthesia/d3ts/index.html"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,5 +46,5 @@ url_code = ""
 
   preview_only = true
 +++
-A customizable surgical anesthesia monitor using D3 based on needs identified by interviews with doctors. Displays real time waveform vitals data, along with past vitals data trends. Allows users to explore past and present waveforms side by side, customize which waveforms and trends they want to see, and automatically calculates vitals statistics not available in current displays. To learn more and see a full demo, visit the [website](https://cse512-18s.github.io/cutting-edge-anesthesia/).
+A customizable surgical anesthesia monitor using D3 based on needs identified by interviews with doctors. Displays real time waveform vitals data, along with past vitals data trends. Allows users to explore past and present waveforms side by side, customize which waveforms and trends they want to see, and automatically calculates vitals statistics not available in current displays.
 ![](featured.png)

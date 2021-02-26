@@ -1,9 +1,9 @@
 +++
-title = "Opportunities for Bayesian Network Learning in Personal Informatics Tools"
-date = 2020-04-25
+title = "Efficient and Explainable Risk Assessments for Imminent Dementia in an Aging Cohort Study"
+date = 2021-02-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Alex Okeson**","James Fogarty"]
+authors = ["Nicasia Beebe-Wang*","**Alex Okeson***","Tim Althoff**","Su-In Lee**"]
 
 
 
@@ -16,13 +16,13 @@ authors = ["**Alex Okeson**","James Fogarty"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Virtual Workshop on Artificial Intelligence for HCI: A Modern Approach at CHI'20"
+publication_short = "Journal of Biomedical and Health Informatics"
 
-link = "https://sites.google.com/view/ai4hci/accepted-papers?authuser=0"
+link = "https://doi.org/10.1109/JBHI.2021.3059563"
 
 # Abstract.
 abstract = ""
@@ -46,22 +46,23 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["bayes"]
+projects = ["dementia"]
 
 # Links (optional).
-url_pdf = "files/CHI2020_workshop.pdf"
+url_pdf = "files/dementia_prediction.pdf"
 #url_preprint = ""
-#url_code = ""
+#url_code = "https://github.com/suinleelab/EEDRP"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
 #url_video = ""
 #url_poster = "#"
 #url_source = ""
+url_code = "https://github.com/suinleelab/EEDRP"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Link", url = "https://sites.google.com/view/ai4hci/accepted-papers?authuser=0"}]
+links = [{name = "Link", url = "https://doi.org/10.1109/JBHI.2021.3059563"}]
 
 # Does this page contain LaTeX math? (true/false)
 #math = true

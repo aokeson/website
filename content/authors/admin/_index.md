@@ -27,6 +27,10 @@ education:
   courses:
   - course: PhD Student in Computer Science and Engineering
     institution: University of Washington
+    year: June 2022 (Expected)
+# - course: MS Student in Computer Science and Engineering
+#    institution: University of Washington
+#    year: 2021
   - course: BS in Computer Science
     institution: University of Colorado Boulder
     year: 2017
@@ -36,12 +40,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=-Io78KkAAAAJ&hl=en
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/aokeson
@@ -62,7 +66,8 @@ email: ""
 #- Visitors
 ---
 
-I am a third year PhD student advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help individuals and doctors better **understand** and **make decisions** based on health data.
+I am a fourth year PhD student advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
 
+During the summer of 2021 I will be interning at [Google Health](https://health.google/).
 
 
