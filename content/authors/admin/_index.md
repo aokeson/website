@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Computer Science and Engineering
+  - course: PhD Student in Computer Science & Engineering
     institution: University of Washington
     year: June 2022 (Expected)
- - course: MS Student in Computer Science and Engineering
+  - course: MS in Computer Science & Engineering
     institution: University of Washington
     year: 2021
   - course: BS in Computer Science
