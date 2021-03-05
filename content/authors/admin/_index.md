@@ -28,9 +28,9 @@ education:
   - course: PhD Student in Computer Science and Engineering
     institution: University of Washington
     year: June 2022 (Expected)
-# - course: MS Student in Computer Science and Engineering
-#    institution: University of Washington
-#    year: 2021
+ - course: MS Student in Computer Science and Engineering
+    institution: University of Washington
+    year: 2021
   - course: BS in Computer Science
     institution: University of Colorado Boulder
     year: 2017

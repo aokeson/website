@@ -20,7 +20,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Virtual Workshop on Artificial Intelligence for HCI: A Modern Approach at CHI'20"
+publication_short = "CHI 2020 Workshop on Artificial Intelligence for HCI: A Modern Approach"
 
 link = "https://sites.google.com/view/ai4hci/accepted-papers?authuser=0"
 
