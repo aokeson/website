@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Student in Computer Science & Engineering
     institution: University of Washington
-    year: June 2022 (Expected)
+    year: March 2022 (Expected)
   - course: MS in Computer Science & Engineering
     institution: University of Washington
     year: 2021
@@ -66,8 +66,8 @@ email: ""
 #- Visitors
 ---
 
-I am a fourth year PhD student advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
+I am a fifth and final year PhD student advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
 
-During the summer of 2021 I will be interning at [Google Health](https://health.google/).
+I am on the job market! I am currently looking for industry applied science, data science, research scientist, and developer positions for a Fall 2022 start. Please reach out if you know of a potential position.
 
 
