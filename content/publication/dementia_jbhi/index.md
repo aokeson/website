@@ -24,6 +24,8 @@ publication_short = "Journal of Biomedical and Health Informatics"
 
 link = "https://doi.org/10.1109/JBHI.2021.3059563"
 
+extra_text = "_*, ** indicate equal contribution and authors are listed alphabetically_"
+
 # Abstract.
 abstract = ""
 
