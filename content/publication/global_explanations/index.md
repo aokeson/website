@@ -1,9 +1,9 @@
 +++
-title = "Efficient and Explainable Risk Assessments for Imminent Dementia in an Aging Cohort Study"
-date = 2021-02-17
+title = "Summarize with Caution: Comparing Global Feature Attributions"
+date = 2021-12-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nicasia Beebe-Wang*","**Alex Okeson***","Tim Althoff**","Su-In Lee**"]
+authors = ["**Alex Okeson**","Rich Caruana","Nick Craswell","Kori Inkpen","Scott M. Lundberg","Harsha Nori","Hanna Wallach","Jennifer Wortman Vaughan"]
 
 
 
@@ -20,11 +20,11 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "IEEE Journal of Biomedical and Health Informatics (Special Issue on Explainable AI for Clinical and Population Health Informatics)"
+publication_short = "IEEE Data Engineering Bulletin on Responsible AI and Human-AI Interaction"
 
-link = "https://doi.org/10.1109/JBHI.2021.3059563"
+link = "http://sites.computer.org/debull/A21dec/A21DEC-CD.pdf"
 
-extra_text = "_*, ** indicate equal contribution and authors are listed alphabetically_"
+extra_text = ""
 
 # Abstract.
 abstract = ""
@@ -48,12 +48,12 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["dementia"]
+projects = ["interpretability"]
 
 # Links (optional).
-url_pdf = "files/dementia_prediction.pdf"
+url_pdf = "files/global_feature_attributions.pdf"
 #url_preprint = ""
-url_code = "https://github.com/suinleelab/EEDRP"
+url_code = "https://github.com/aokeson/Aggregated-Explainability-Ranking-Alternatives"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
@@ -63,7 +63,7 @@ url_code = "https://github.com/suinleelab/EEDRP"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Link", url = "https://doi.org/10.1109/JBHI.2021.3059563"}]
+links = [{name = "Link", url = "http://sites.computer.org/debull/A21dec/A21DEC-CD.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 #math = true
