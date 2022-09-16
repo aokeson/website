@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD graduate
 
 # Organizations/Affiliations
 organizations:
@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Computer Science & Engineering
+  - course: PhD in Computer Science & Engineering
     institution: University of Washington
-    year: March 2022 (Expected)
+    year: 2022
   - course: MS in Computer Science & Engineering
     institution: University of Washington
     year: 2021
@@ -66,7 +66,7 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
+I graduated with my PhD advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington in June 2022. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
 
 I am on the job market! I am currently looking for industry applied science, data science, research scientist, and developer positions for a Fall 2022 start. Please reach out if you know of a potential position.
 
