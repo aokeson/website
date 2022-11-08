@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD graduate
+role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington
+- name: iRhythm Technologies
   url: ""
 
 interests:
@@ -66,8 +66,7 @@ email: ""
 #- Visitors
 ---
 
-I graduated with my PhD advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/) in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington in June 2022. I research how to use **machine learning** and **data analytics** to help people better **understand** and **make decisions** based on data, particularly within healthcare contexts.
+I am currently a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/). I am generally interested in exploring, understanding, and improving how people use **machine learning** and **data analytics** to better **understand** and **make decisions** based on data, particularly within healthcare contexts. I completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
 
-I am on the job market! I am currently looking for industry applied science, data science, research scientist, and developer positions for a Fall 2022 start. Please reach out if you know of a potential position.
 
 
