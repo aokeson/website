@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Engineer
+role: Research Engineer | Data Scientist | AI Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: iRhythm Technologies
-  url: ""
+#organizations:
+#- name: iRhythm Technologies
+#  url: ""
 
 interests:
-- Applied Machine Learning
-- Human Computer Interaction
-- Interpretability
-- Healthcare
+- Exploratory data analysis
+- Applied machine learning
+- Machine learning interpretability
+- User centered design
 
 education:
   courses:
@@ -51,7 +51,7 @@ social:
   link: https://github.com/aokeson
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alexandraokeson/
+  link: https://www.linkedin.com/in/alexokeson/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -66,7 +66,7 @@ email: ""
 #- Visitors
 ---
 
-I am currently a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/). I am generally interested in exploring, understanding, and improving how people use **machine learning** and **data analytics** to better **understand** and **make decisions** based on data, particularly within healthcare contexts. I completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
+I am a research engineer/data scientist/AI engineer with expertise in exploring, understanding, and improving how people use machine learning and data analytics to better interpret information and make decisions based on data. Previously, I was a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/) and completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
 
 
 
