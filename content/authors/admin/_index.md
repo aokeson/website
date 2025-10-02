@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer | Data Scientist | AI Engineer
+role: Data Scientist | Research Engineer
 
 # Organizations/Affiliations
 #organizations:
@@ -18,8 +18,9 @@ role: Research Engineer | Data Scientist | AI Engineer
 #  url: ""
 
 interests:
+- AI for non-AI experts
 - Exploratory data analysis
-- Applied machine learning
+- Applied predictive machine learning
 - Machine learning interpretability
 - User centered design
 
@@ -66,7 +67,7 @@ email: ""
 #- Visitors
 ---
 
-I am a research engineer/data scientist/AI engineer with expertise in exploring, understanding, and improving how people use machine learning and data analytics to better interpret information and make decisions based on data. Previously, I was a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/) and completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
+I am a data scientist/research engineer with expertise in exploring, understanding, and improving how people use machine learning and data analytics to better interpret information and make decisions based on data. Previously, I was a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/) and completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
 
 
 
