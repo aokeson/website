@@ -67,7 +67,7 @@ email: ""
 #- Visitors
 ---
 
-I am a data scientist/research engineer with expertise in exploring, understanding, and improving how people use machine learning and data analytics to better interpret information and make decisions based on data. Previously, I was a Senior Research Engineer at [iRhythm Technologies](https://www.irhythmtech.com/) and completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington and was advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
+I am an industry data scientist/research engineer with expertise in exploring, understanding, and improving how people use machine learning and data analytics to better interpret information and make decisions based on data. Previously, I completed my PhD in [Computer Science and Engineering](https://www.cs.washington.edu/) at the University of Washington advised by [James Fogarty](https://homes.cs.washington.edu/~jfogarty/).
 
 
 
